@@ -16,7 +16,7 @@ function App() {
    
    
     <div id="wrapper">
-      <h1>LINK ROUTE PATH</h1>
+     
 <BrowserRouter>
     <Sidebar/>
     
@@ -24,7 +24,7 @@ function App() {
     <div id="content">
     <div class="container-fluid">
      
-
+ <h1>LINK ROUTE PATH</h1>
                 
     <Routes> 
     <Route path="/dashboard" element ={<Dashboard/>}/>
